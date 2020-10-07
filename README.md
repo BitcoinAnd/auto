@@ -1,3 +1,3 @@
 # auto
 automate scripts
-## Quick setup for bitcoinAnd.net
+## Quick setup for [http://bitcoinAnd.net](http://bitcoinAnd.net)
