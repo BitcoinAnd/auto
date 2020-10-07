@@ -1,3 +1,3 @@
-# init
-init scripts
+# auto
+automate scripts
 ## Quick setup for bitcoinAnd.net
